@@ -1,4 +1,4 @@
-Website repository of the Workshop on Gender Bias in Natural Language Processing 
+Website repository of the **Workshop on Gender Bias in Natural Language Processing **
 
 For local testing:
 
