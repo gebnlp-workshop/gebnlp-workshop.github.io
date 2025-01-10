@@ -2,5 +2,5 @@ Website repository of the **Workshop on Gender Bias in Natural Language Processi
 
 For local testing:
 
-gem install jekyll bundler
+gem install jekyll bundler \
 bundle exec jekyll serve
