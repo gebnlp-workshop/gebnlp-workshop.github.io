@@ -30,16 +30,19 @@ Submissions will be accepted as short papers (4 pages) and as long papers (8 pag
 
 Each paper should include a statement which explicitly defines (a) what system behaviors are considered as bias in the work and (b) why those behaviors are harmful, in what ways, and to whom (cf. Blodgett et al. (2020)). More information on this requirement, which was successfully introduced at GeBNLP 2020, can be found on the workshop website. We also encourage authors to engage with definitions of bias and other relevant concepts such as prejudice, harm, discrimination from outside NLP, especially from social sciences and normative ethics, in this statement and in their work in general.
 
+**Direct submission link**: [https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/GeBNLP](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/GeBNLP)
+**ARR commitment link**: [https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/GeBNLP_ARR_Commitment](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/GeBNLP_ARR_Commitment)
+
 ## Non-archival Option
 The authors have the option of submitting research as non-archival, meaning that the paper will not be published in the conference proceedings. We expect these submissions to describe the same quality of work and format as archival submissions.
 
 
 # Organizers
 
-Christine Basta, Alexandria University
-Marta R. Costa-jussà, FAIR, Meta
-Agnieszka Faleńska, University of Stuttgart
-Debora Nozza, Bocconi University
+Christine Basta, Alexandria University \ 
+Marta R. Costa-jussà, FAIR, Meta \
+Agnieszka Faleńska, University of Stuttgart \
+Debora Nozza, Bocconi University \
 Karolina Stańczak, Mila and McGill University
 
 # Contact Info
