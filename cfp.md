@@ -39,7 +39,7 @@ The authors have the option of submitting research as non-archival, meaning that
 
 # Organizers
 
-Christine Basta, Alexandria University \ 
+Christine Basta, Alexandria University \
 Marta R. Costa-jussà, FAIR, Meta \
 Agnieszka Faleńska, University of Stuttgart \
 Debora Nozza, Bocconi University \
