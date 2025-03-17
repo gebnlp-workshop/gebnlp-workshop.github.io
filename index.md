@@ -5,7 +5,7 @@ title: index
 
 ## Overview
 
-The 6th Workshop on Gender Bias in Natural Language Processing is taking place on **July 31st or August 1st 2025**, as part of [ACL 2025](https://2025.aclweb.org/) in Vienna.
+The 6th Workshop on Gender Bias in Natural Language Processing is taking place on **August 1st 2025**, as part of [ACL 2025](https://2025.aclweb.org/) in Vienna.
 
 <br/><br/>
 
