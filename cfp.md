@@ -5,15 +5,15 @@ rank: 1
 ---
 
 # Important Dates
-*Submission due*: 		April 18, 2025 23:59 Anywhere on Earth
+*Submission due*: April 18, 2025 23:59 Anywhere on Earth
 
 *ARR reviewed submission due*: May 23, 2025
 
-*Notification of acceptance*:       May 30, 2025
+*Notification of acceptance*: May 30, 2025
 
-*Camera-ready papers due*: 	June 13, 2025
+*Camera-ready papers due*: June 13, 2025
 
-*Workshop*: 			July 31 - August 1, 2025
+*Workshop*: August 1, 2025
 
 # Overview
 
