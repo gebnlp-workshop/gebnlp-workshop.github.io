@@ -32,6 +32,8 @@ Each paper should include a statement which explicitly defines (a) what system b
 
 Submissions can be made through either [**direct submission**](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/GeBNLP) or [**ARR commitment**](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/GeBNLP_ARR_Commitment).
 
+Camera-ready versions are allowed one extra page to address the reviewer's comments. This gives at most 9 pages for long papers and 5 pages of text for short ones (exactly the same as at the *ACL conferences).
+
 ## Non-archival Option
 The authors have the option of submitting research as non-archival, meaning that the paper will not be published in the conference proceedings. We expect these submissions to describe the same quality of work and format as archival submissions.
 
