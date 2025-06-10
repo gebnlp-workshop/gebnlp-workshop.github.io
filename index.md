@@ -15,7 +15,7 @@ The 6th Workshop on Gender Bias in Natural Language Processing is taking place o
 - <p><a href="https://scholar.google.com/citations?user=ESqQ7FoAAAAJ&hl=en">Marta R. Costa-jussà</a>, FAIR, Meta</p>
 - <p><a href="https://scholar.google.com/citations?user=r5TPYZwAAAAJ&hl=en">Agnieszka Faleńska</a>, University of Stuttgart</p>
 - <p><a href="https://deboranozza.com/">Debora Nozza</a>, Bocconi University</p>
-- <p><a href="https://karstanczak.github.io/">Karolina Stańczak</a>, Mila / McGill University</p>
+- <p><a href="https://karstanczak.github.io/">Karolina Stańczak</a>, ETH AI Center</p>
 
 <br/><br/>
 
