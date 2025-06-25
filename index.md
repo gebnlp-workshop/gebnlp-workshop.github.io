@@ -19,5 +19,14 @@ The 6th Workshop on Gender Bias in Natural Language Processing is taking place o
 
 <br/><br/>
 
+
+## Sponsors
+
+<img src="assets/img/logo_meta.png"  width="50%" height="50%">
+
+[BOUQuET: Benchmark and Open initiative for Universal Quality Evaluation in Translation](https://bouquet.metademolab.com/)
+
+<br/><br/>
+
 ## Contact
 If you have any questions, please get in touch at <a href="mailto:gebnlpworkshop@gmail.com">gebnlpworkshop@gmail.com</a>
