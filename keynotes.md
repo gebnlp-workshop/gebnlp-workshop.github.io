@@ -7,7 +7,7 @@ rank: 3
 ## <span style="color:#267CB9"> Keynotes</span>
 
 ### Anne Lauscher
-*University of Copenhagen*
+*University of Hamburg*
 
 #### Title: TBD
 
