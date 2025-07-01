@@ -1,17 +1,25 @@
-## Anne Lauscher
+---
+layout: default
+title: Keynotes
+rank: 2
+---
+
+## <span style="color:#267CB9"> Keynotes</span>
+
+### Anne Lauscher
 *University of Copenhagen*
 
-### Title: TBD
+#### Title: TBD
 
 **Abstract**
 
 TBD
 ---
 
-## Maarten Sap
+### Maarten Sap
 *Carnegie Mellon University (CMU) & Allen Institute for AI (AI2)*
 
-### Responsible AI for Diverse Users and Cultures
+#### Responsible AI for Diverse Users and Cultures
 
 **Abstract**
 
