@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Keynotes
-rank: 2
+rank: 3
 ---
 
 ## <span style="color:#267CB9"> Keynotes</span>
