@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accepted papers
+title: Accepted Papers
 rank: 5
 ---
 
