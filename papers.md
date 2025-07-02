@@ -24,7 +24,7 @@ rank: 5
 | Poster | Mind the Gap: Gender-based Differences in Occupational Embeddings | Olga Kononykhina, Anna-Carolina Haensch, Frauke Kreuter |
 | Poster | Bias Beyond English: Evaluating Social Bias and Debiasing Methods in a Low-Resource Setting | Ej Zhou, Weiming Lu |
 | Poster | Assessing the Reliability of LLMs Annotations in the Context of Demographic Bias and Model Explanation | Hadi Mohammadi, Tina Shahedi, Pablo Mosteiro, Massimo Poesio, Ayoub Bagheri, Anastasia Giachanou |
-| Lightning Talk | WoNBias: A Dataset for Classifying Bias & Prejudice Against Women in Bengali Text | MD. RAISUL ISLAM AUPI, Nishat Tafannum, Md. Shahidur Rahman, Kh Mahmudul Hassan, Naimur Rahman |
+| Lightning Talk | WoNBias: A Dataset for Classifying Bias & Prejudice Against Women in Bengali Text | Raisul Islam Aupi, Nishat Tafannum, Shahidur Rahman, Kh Mahmudul Hassan, Naimur Rahman |
 | Lightning Talk | LLMs Exhibit Implicit Biases in Predicting Patients' Gender from Clinical Conversations | Naveen Jafer Nizar, Swetasudha Panda, Daeja Oxendine, Qinlan Shen, Sumana Srivatsa, Krishnaram Kenthapadi |
 | Poster | Strengths and Limitations of Word-Based Task Explainability in Vision Language Models: a Case Study on Biological Sex Biases in the Medical Domain | Lorenzo Bertolini, Valentin Comte, Victoria Ruiz-Serra, Lia Orfei, Mario Ceresa |
 | Poster | Wanted: Personalised Bias Warnings for Gender Bias in Language Models | Chiara Di Bonaventura, Michelle Nwachukwu, Maria Stoica |
