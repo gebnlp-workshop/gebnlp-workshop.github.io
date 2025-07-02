@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Call For Papers
+title: Call for Papers
 rank: 1
 ---
 
