@@ -10,11 +10,10 @@ rank: 5
 
 | Presentation Mode | Title | Authors |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| :--- | :--- | :--- |
+| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------- |
 | | Bias Beyond English: Evaluating Social Bias and Debiasing Methods in a Low-Resource Setting | Ej Zhou, Weiming Lu |
 | | LLMs Exhibit Implicit Biases in Predicting Patients' Gender from Clinical Conversations | Naveen Jafer Nizar, Swetasudha Panda, Daeja Oxendine, Qinlan Shen, Sumana Srivatsa, Krishnaram Kenthapadi |
 | | Gender Bias and the Role of Context in Human Perception and Machine Translation | Janiça Hackenbuchner, Arda Tezcan, Joke Daems |
-| | Language, Culture, and Inequality: A Multilingual Evaluation of Gender Bias in Language Generation | Yuanjun Feng, Tanzhou Liu |
 | | Analyzing Social Biases in Japanese Large Language Models | Hitomi Yanaka, Namgi Han, Ryoma Kumon, LU JIE, Masashi Takeshita, Ryo Sekizawa, Taisei Katô, Hiromi Arai |
 | | Intersectional Bias in Japanese Large Language Models from Contextualized Perspective | Xinqi He, Hitomi Yanaka, LU JIE, Namgi Han, Ryoma Kumon, Yuma Matsuoka, Kazuhiko Watabe, Yuko Itatsu |
 | | Detecting Bias and Intersectional Bias in Italian Word Embeddings and Language Models | Alexandre Puttick, Mascha Kurpicz-Briki |
