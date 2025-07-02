@@ -9,7 +9,7 @@ rank: 5
 
 
 | Presentation Mode | Title | Authors |
-|-------------------|-------|---------|
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
 | :--- | :--- | :--- |
 | | Bias Beyond English: Evaluating Social Bias and Debiasing Methods in a Low-Resource Setting | Ej Zhou, Weiming Lu |
 | | LLMs Exhibit Implicit Biases in Predicting Patients' Gender from Clinical Conversations | Naveen Jafer Nizar, Swetasudha Panda, Daeja Oxendine, Qinlan Shen, Sumana Srivatsa, Krishnaram Kenthapadi |
