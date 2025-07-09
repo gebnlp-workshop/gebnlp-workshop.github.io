@@ -9,11 +9,11 @@ rank: 3
 ### Anne Lauscher
 *University of Hamburg*
 
-#### Title: TBD
+#### Once Upon a Bias: A Fairy Tale of Gender in Language Technology
 
 **Abstract**
 
-TBD
+This is a story of dreams, detours, and (of course) data. In this keynote, I tell the tale of how a research community—our community—set out to create gender-fair language technologies. Along the way, we met dragons like stereotypical occupations, default male pronouns, and cisnormative datasets. We tried to rescue invisible identities. We met allies, too: other communities and other research disciplines. Drawing on my own memories of our adventures I will reflect upon the challenges we tackled and the drawbacks that remain. Finally, I will open the next chapter and invite you to take a look into the future.
 
 ---
 
