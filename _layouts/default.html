@@ -38,6 +38,7 @@
         </ul>
         {% endif %}
         {% assign sorted = site.html_pages | sort:"rank" %}
+        <ul>
         <li>
         <a href="{{ "/" | absolute_url }}">Homepage</a>
         </li>
@@ -49,6 +50,7 @@
             </li>
           {% endif %}
         {% endfor %}
+      </ul>
       </header>
 
       <section>
