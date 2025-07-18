@@ -24,7 +24,6 @@ rank: 5
 | Poster I | Bias Beyond English: Evaluating Social Bias and Debiasing Methods in a Low-Resource Setting | Ej Zhou, Weiming Lu |
 | Poster I | Assessing the Reliability of LLMs Annotations in the Context of Demographic Bias and Model Explanation | Hadi Mohammadi, Tina Shahedi, Pablo Mosteiro, Massimo Poesio, Ayoub Bagheri, Anastasia Giachanou |
 | Poster II | Strengths and Limitations of Word-Based Task Explainability in Vision Language Models: a Case Study on Biological Sex Biases in the Medical Domain | Lorenzo Bertolini, Valentin Comte, Victoria Ruiz-Serra, Lia Orfei, Mario Ceresa |
-| Poster II | Wanted: Personalised Bias Warnings for Gender Bias in Language Models | Chiara Di Bonaventura, Michelle Nwachukwu, Maria Stoica |
 | Poster II | GG-BBQ: German Gender Bias Benchmark for Question Answering | Shalaka Satheesh, Katrin Klug, Katharina Beckh, Héctor Allende-Cid, Sebastian Houben, Teena Hassan |
 | Poster II | Characterizing non-binary French: A first step towards debiasing gender inference | Marie Flesch, Heather Burnett |
 | Poster II | Can Explicit Gender Information Improve Zero-Shot Machine Translation? | Van-Hien Tran, Huy Hien Vu, Hideki Tanaka, Masao Utiyama |
@@ -52,5 +51,6 @@ rank: 5
 | Lightning Talk | WoNBias: A Dataset for Classifying Bias & Prejudice Against Women in Bengali Text | Raisul Islam Aupi, Nishat Tafannum, Shahidur Rahman, Kh Mahmudul Hassan, Naimur Rahman |
 | Lightning Talk | LLMs Exhibit Implicit Biases in Predicting Patients' Gender from Clinical Conversations | Naveen Jafer Nizar, Swetasudha Panda, Daeja Oxendine, Qinlan Shen, Sumana Srivatsa, Krishnaram Kenthapadi |
 | Lightning Talk | Tag-First: Mitigating Distributional Bias in Synthetic User Profiles through Controlled Attribute Generation | Ismael Garrido-Muñoz, Arturo Montejo-Ráez, Fernando Martínez Santiago |
+| Lightning Talk | Wanted: Personalised Bias Warnings for Gender Bias in Language Models | Chiara Di Bonaventura, Michelle Nwachukwu, Maria Stoica |
 | Lightning Talk (Findings) | Translate With Care: Addressing Gender Bias, Neutrality, and Reasoning in Large Language Model Translations | Pardis Sadat Zahraei, Ali Emami |
 | Lightning Talk (Findings) | Biases Propagate in Encoder-based Vision-Language Models: A Systematic Analysis From Intrinsic Measures to Zero-shot Retrieval Outcomes | Kshitish Ghate, Tessa Charlesworth, Mona T. Diab, Aylin Caliskan |
