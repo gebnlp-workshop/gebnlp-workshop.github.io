@@ -50,7 +50,6 @@ rank: 5
 | Lightning Talk | Assessing Gender Bias of Pretrained Bangla Language Models in STEM and SHAPE Fields | Noor Mairukh Khan Arnob, Saiyara Mahmud, Azmine Toushik Wasi |
 | Lightning Talk | WoNBias: A Dataset for Classifying Bias & Prejudice Against Women in Bengali Text | Raisul Islam Aupi, Nishat Tafannum, Shahidur Rahman, Kh Mahmudul Hassan, Naimur Rahman |
 | Lightning Talk | LLMs Exhibit Implicit Biases in Predicting Patients' Gender from Clinical Conversations | Naveen Jafer Nizar, Swetasudha Panda, Daeja Oxendine, Qinlan Shen, Sumana Srivatsa, Krishnaram Kenthapadi |
-| Lightning Talk | Tag-First: Mitigating Distributional Bias in Synthetic User Profiles through Controlled Attribute Generation | Ismael Garrido-Muñoz, Arturo Montejo-Ráez, Fernando Martínez Santiago |
 | Lightning Talk | Wanted: Personalised Bias Warnings for Gender Bias in Language Models | Chiara Di Bonaventura, Michelle Nwachukwu, Maria Stoica |
 | Lightning Talk (Findings) | Translate With Care: Addressing Gender Bias, Neutrality, and Reasoning in Large Language Model Translations | Pardis Sadat Zahraei, Ali Emami |
 | Lightning Talk (Findings) | Biases Propagate in Encoder-based Vision-Language Models: A Systematic Analysis From Intrinsic Measures to Zero-shot Retrieval Outcomes | Kshitish Ghate, Tessa Charlesworth, Mona T. Diab, Aylin Caliskan |
