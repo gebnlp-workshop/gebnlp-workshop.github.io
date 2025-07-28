@@ -19,10 +19,10 @@ rank: 5
 | Poster I | Exploring Gender Bias in Large Language Models: An In-depth Dive into the German Language | Kristin Gnadt, David Thulke, Simone Kopeinik, Ralf Schlüter |
 | Poster I | Adapting Psycholinguistic Research for LLMs: Gender-inclusive Language in a Coreference Context | Marion Bartl, Thomas Brendan Murphy, Susan Leavy |
 | Poster I | Gender Bias in Nepali-English Machine Translation: A Comparison of LLMs and Existing MT Systems | Supriya Khadka, Bijayan Bhattarai |
-| Poster I | Leveraging Large Language Models to Measure Gender Representation Bias in Gendered Language Corpora | Erik Derner, Sara Sansalvador de la Fuente, Yoan Gutierrez, Paloma Moreda Pozo, Nuria M Oliver |
 | Poster I | Mind the Gap: Gender-based Differences in Occupational Embeddings | Olga Kononykhina, Anna-Carolina Haensch, Frauke Kreuter |
 | Poster I | Bias Beyond English: Evaluating Social Bias and Debiasing Methods in a Low-Resource Setting | Ej Zhou, Weiming Lu |
 | Poster I | Assessing the Reliability of LLMs Annotations in the Context of Demographic Bias and Model Explanation | Hadi Mohammadi, Tina Shahedi, Pablo Mosteiro, Massimo Poesio, Ayoub Bagheri, Anastasia Giachanou |
+| Poster II | Leveraging Large Language Models to Measure Gender Representation Bias in Gendered Language Corpora | Erik Derner, Sara Sansalvador de la Fuente, Yoan Gutierrez, Paloma Moreda Pozo, Nuria M Oliver |
 | Poster II | Strengths and Limitations of Word-Based Task Explainability in Vision Language Models: a Case Study on Biological Sex Biases in the Medical Domain | Lorenzo Bertolini, Valentin Comte, Victoria Ruiz-Serra, Lia Orfei, Mario Ceresa |
 | Poster II | GG-BBQ: German Gender Bias Benchmark for Question Answering | Shalaka Satheesh, Katrin Klug, Katharina Beckh, Héctor Allende-Cid, Sebastian Houben, Teena Hassan |
 | Poster II | Characterizing non-binary French: A first step towards debiasing gender inference | Marie Flesch, Heather Burnett |
