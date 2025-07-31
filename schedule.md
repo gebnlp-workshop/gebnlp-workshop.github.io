@@ -7,6 +7,9 @@ rank: 4
 ## <span style="color:#267CB9"> Schedule</span>
 
 
+Please check the [Accepted Papers section](https://gebnlp-workshop.github.io/papers.html) to find the poster session to which your paper has been assigned.
+The workshop will take place in **Hall C**.
+
 ### Friday, August 1, 2025
 
 | Time          | Event                                                                                                                                                                                                                           |
