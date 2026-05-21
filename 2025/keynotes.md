@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Keynotes
+edition: 2025
 rank: 3
 ---
 

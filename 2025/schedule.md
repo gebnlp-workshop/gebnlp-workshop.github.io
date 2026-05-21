@@ -1,21 +1,19 @@
 ---
 layout: default
 title: Schedule
+edition: 2025
 rank: 4
 ---
 
 ## <span style="color:#267CB9"> Schedule</span>
 
 
-Please check the [Accepted Papers section](https://gebnlp-workshop.github.io/papers.html) to find the poster session to which your paper has been assigned.
-The workshop will take place in **Hall C**.
-
 ### Friday, August 1, 2025
 
 | Time          | Event                                                                                                                                                                                                                           |
 | :------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **09:00 - 09:15** | Opening Remarks                                                                                                                                                                                                               |
-| **09:15 - 10:15** | Keynote Speech by [Anne Lauscher](https://gebnlp-workshop.github.io/keynotes.html)                                                                                                                                                                                              |
+| **09:15 - 10:15** | Keynote Speech by [Anne Lauscher](keynotes.html)                                                                                                                                                                              |
 | **10:15 - 11:00** | Coffee Break                                                                                                                                                                                                                  |
 | **11:00 - 11:15** | <em>Introducing MARB — A Dataset for Studying the Social Dimensions of Reporting Bias in Language Models</em> <br>Tom Södahl Bladsjö and Ricardo Muñoz Sánchez |
 | **11:15 - 11:30** | <em>GENDEROUS: Machine Translation and Cross-Linguistic Evaluation of a Gender-Ambiguous Dataset</em> <br>Janiça Hackenbuchner, Joke Daems and Eleni Gkovedarou |
@@ -24,6 +22,6 @@ The workshop will take place in **Hall C**.
 | **14:00 - 14:45** | Poster Session II                                                                                                                                                                                                             |
 | **14:45 - 15:30** | Poster Session III                                                                                                                                                                                                            |
 | **15:30 - 16:00** | Coffee Break                                                                                                                                                                                                                  |
-| **16:00 - 17:00** | Keynote Speech by [Marteen Sap](https://gebnlp-workshop.github.io/keynotes.html)                                                                                                                                                                                                   |
+| **16:00 - 17:00** | Keynote Speech by [Marteen Sap](keynotes.html)                                                                                                                                                                                |
 | **17:00 - 18:00** | Lightning Talks                                                                                                                                                                                                               |
 | **18:00 - 18:15** | Closing Remarks                                                                                                                                                                                                               |

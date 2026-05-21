@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Accepted Papers
+edition: 2025
 rank: 5
 ---
 

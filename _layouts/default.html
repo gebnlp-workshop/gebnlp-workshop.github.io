@@ -37,16 +37,20 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-        {% assign sorted = site.html_pages | sort:"rank" %}
+        {% assign current_edition = page.edition | default: 'current' %}
+        {% assign nav_pages = site.html_pages | where:"edition", current_edition | sort:"rank" %}
         <ul>
         <li>
-        <a href="{{ "/" | absolute_url }}">Homepage</a>
+        {% if current_edition == 'current' %}
+          <a href="{{ "/" | absolute_url }}">Homepage</a>
+        {% else %}
+          <a href="{{ "/" | append: current_edition | append: "/" | absolute_url }}">Homepage ({{ current_edition }})</a>
+        {% endif %}
         </li>
-        {% for item in sorted %}
+        {% for item in nav_pages %}
           {% if item.title and item.rank %}
             <li>
-              <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
-              <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
+              <a href="{{ item.path | replace:'.md','.html' | relative_url }}">{{ item.title }}</a>
             </li>
           {% endif %}
         {% endfor %}
@@ -54,6 +58,13 @@
       </header>
 
       <section>
+
+      {% if current_edition != 'current' %}
+      <div class="archive-banner" style="background:#fff4e5;border-left:4px solid #f5a623;padding:10px 14px;margin-bottom:20px;border-radius:4px;">
+        <strong>Archived edition ({{ current_edition }}).</strong>
+        <a href="{{ "/" | absolute_url }}">View the current edition →</a>
+      </div>
+      {% endif %}
 
       {{ content }}
 
