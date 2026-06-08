@@ -6,7 +6,7 @@ edition: current
 
 ## Overview
 
-The 7th Workshop on Gender Bias in Natural Language Processing will take place as part of [AACL 2026](https://2026.aaclnet.org/). Dates and venue details will be announced soon.
+The 7th Workshop on Gender Bias in Natural Language Processing will take place on **November 9, 2026** in **Hengqin, China**, as part of [AACL 2026](https://2026.aaclnet.org/).
 
 <br/><br/>
 
