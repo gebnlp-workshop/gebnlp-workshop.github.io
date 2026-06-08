@@ -17,7 +17,7 @@ rank: 1
 
 # Overview
 
-The 7th Workshop on Gender Bias in Natural Language Processing (GeBNLP 2026) will be co-located with the **5th AACL** in **Hengqin, China**.
+The 7th Workshop on Gender Bias in Natural Language Processing (GeBNLP 2026) will be co-located with the [**5th AACL**](https://2026.aaclnet.org/) in **Hengqin, China**.
 
 The GeBNLP workshop serves as a leading venue for the study, evaluation, and mitigation of gender bias in natural language processing. As large language models (LLMs) become foundational to recent NLP applications, addressing how these systems represent and affect different gender, alongside intersecting demographic axes such as race, nationality, religion, and ability, remains a critical challenge for the AI community. While foundational progress has been made in algorithmic debiasing and balanced data collection, recent large-scale evaluations reveal that state-of-the-art models continue to exhibit persistent stereotypes and confidence disparities across intersectional identities (Siddique et al., 2024; Savoldi et al., 2024). Our workshop acts as a multidisciplinary bridge, enabling researchers to define shared standards for tasks and metrics that ensure technical advancements are grounded in the social and ethical realities of systemic harm (Dai et al., 2024).
 
