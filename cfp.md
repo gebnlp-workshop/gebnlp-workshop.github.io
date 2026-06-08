@@ -50,7 +50,7 @@ Agnieszka Faleńska, University of Stuttgart \
 Christian Hardmeier, IT University of Copenhagen \
 Vera Neplenbroek, University of Amsterdam \
 Debora Nozza, Bocconi University \
-Karolina Stańczak, Mila and McGill University
+Karolina Stańczak, ETH AI Center
 
 # References
 
