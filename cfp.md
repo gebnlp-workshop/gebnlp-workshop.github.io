@@ -57,7 +57,6 @@ Karolina Stańczak, Mila and McGill University
 - Dai, Y., Gu, H., Wang, Y. and Wang, X., 2024, November. Mitigate extrinsic social bias in pre-trained language models via continuous prompts adjustment. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing* (pp. 11068–11083).
 - Siddique, Z., Turner, L. and Anke, L.E., 2024, November. Who is better at math, jenny or jingzhen? Uncovering stereotypes in large language models. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing* (pp. 18601–18619).
 - Savoldi, B., Papi, S., Negri, M., Guerberof-Arenas, A. and Bentivogli, L., 2024, November. What the harm? Quantifying the tangible impact of gender bias in machine translation with a human-centered study. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing* (pp. 18048–18076).
-- Blodgett, S.L., Barocas, S., Daumé III, H. and Wallach, H., 2020, July. Language (technology) is power: A critical survey of "bias" in NLP. In *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics* (pp. 5454–5476).
 
 # Contact Info
 
