@@ -15,6 +15,8 @@ rank: 2
 
 * [Agnieszka Faleńska](https://scholar.google.com/citations?user=r5TPYZwAAAAJ&hl=en), University of Stuttgart
 
+* [Christian Hardmeier](https://christianhardmeier.rax.ch/), IT University of Copenhagen
+
 * [Vera Neplenbroek](https://veranep.github.io/), University of Amsterdam
 
 * [Debora Nozza](https://deboranozza.com/), Bocconi University
