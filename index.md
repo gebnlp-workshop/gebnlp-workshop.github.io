@@ -16,6 +16,7 @@ The 7th Workshop on Gender Bias in Natural Language Processing will take place a
 - <p><a href="https://scholar.google.com.eg/citations?user=39XNRZ0AAAAJ&hl=en&oi=ao">Christine Basta</a>, Alexandria University</p>
 - <p><a href="https://scholar.google.com/citations?user=ESqQ7FoAAAAJ&hl=en">Marta R. Costa-jussà</a>, FAIR, Meta</p>
 - <p><a href="https://scholar.google.com/citations?user=r5TPYZwAAAAJ&hl=en">Agnieszka Faleńska</a>, University of Stuttgart</p>
+- <p><a href="https://christianhardmeier.rax.ch/">Christian Hardmeier</a>, IT University of Copenhagen</p>
 - <p><a href="https://veranep.github.io/">Vera Neplenbroek</a>, University of Amsterdam</p>
 - <p><a href="https://deboranozza.com/">Debora Nozza</a>, Bocconi University</p>
 - <p><a href="https://karstanczak.github.io/">Karolina Stańczak</a>, ETH AI Center</p>
