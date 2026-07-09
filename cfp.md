@@ -9,11 +9,11 @@ rank: 1
 
 *Submission due*: September 2, 2026
 
-*ARR reviewed submission due*: October 3, 2026
+*ARR reviewed submission due*: September 29, 2026
 
-*Notification of acceptance*: October 9, 2026
+*Notification of acceptance*: October 2, 2026
 
-*Camera-ready papers due*: October 19, 2026
+*Camera-ready papers due*: October 12, 2026
 
 *Workshop*: November 9, 2026
 
