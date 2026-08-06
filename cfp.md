@@ -42,6 +42,9 @@ Authors are encouraged to go beyond binary gender definitions and discuss how th
 - **Non-Archival Submissions**: Authors may opt for non-archival submission, allowing work of standard conference quality to be presented without being published in the official proceedings.
 - **Submission Link**: [direct submission](https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2026/Workshop/GeBNLP_Direct_Submission) or [ARR commitment](https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2026/Workshop/GeBNLP_ARR_Commitment). Blind submission is required.
 
+# Paper Integrity Policy
+
+We endorse the [EMNLP 2026 Paper Integrity Policy](https://2026.emnlp.org/paper-integrity-policy/). Submissions that misuse AI, include hallucinated citations, present thinly sliced contributions, or are entirely AI-generated may be desk rejected. AI-assisted writing is permitted, provided authors remain responsible for the work.
 
 # Organizers
 
