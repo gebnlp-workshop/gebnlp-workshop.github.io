@@ -39,6 +39,7 @@ Authors are encouraged to go beyond binary gender definitions and discuss how th
 
 - **Long Papers**: Up to 8 pages (excluding references).
 - **Short Papers**: Up to 4 pages (excluding references).
+- **Formatting**: Paper submissions must use the official [ACL style template](https://github.com/acl-org/acl-style-files). Please follow the [paper formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html) general to "*ACL" conferences. Authors may not modify these style files or use templates designed for other conferences.
 - **Non-Archival Submissions**: Authors may opt for non-archival submission, allowing work of standard conference quality to be presented without being published in the official proceedings.
 - **Submission Link**: [direct submission](https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2026/Workshop/GeBNLP_Direct_Submission) or [ARR commitment](https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2026/Workshop/GeBNLP_ARR_Commitment). Blind submission is required.
 
