@@ -7,7 +7,7 @@ rank: 1
 
 # Important Dates
 
-*Submission due*: September 2, 2026
+*Submission due*: September 7, 2026
 
 *ARR reviewed submission due*: September 29, 2026
 
