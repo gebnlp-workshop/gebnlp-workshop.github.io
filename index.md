@@ -10,6 +10,12 @@ The 7th Workshop on Gender Bias in Natural Language Processing will take place o
 
 <br/><br/>
 
+## Announcements
+
+- The **early bird registration deadline for AACL will be extended**. We will share the updated date here as soon as it is announced, and AACL will also communicate it directly.
+
+<br/><br/>
+
 ## Organisers
 
 - <p><a href="https://gattanasio.cc/">Giuseppe Attanasio</a>, Instituto de Telecomunicações, Lisbon</p>
