@@ -12,7 +12,7 @@ The 7th Workshop on Gender Bias in Natural Language Processing will take place o
 
 ## Announcements
 
-- The **early bird registration deadline for AACL will be extended**. We will share the updated date here as soon as it is announced, and AACL will also communicate it directly.
+- The **early bird registration deadline for AACL has been extended to October 7, 2026**.
 
 <br/><br/>
 
