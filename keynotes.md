@@ -7,6 +7,8 @@ rank: 3
 
 ## <span style="color:#267CB9"> Keynotes</span>
 
+<img src="/assets/img/beatrice_savoldi.webp" alt="Beatrice Savoldi" style="float: right; width: 140px; height: 140px; border-radius: 50%; object-fit: cover; margin: 0 0 15px 20px;" />
+
 ### Beatrice Savoldi (she/her)
 *Fondazione Bruno Kessler*
 
@@ -19,6 +21,8 @@ As language technologies increasingly permeate society and mediate how people co
 Machine translation (MT), among the most extensively studied and user-facing tasks in NLP, has long been at the forefront of gender bias research, during a period marked by societal, linguistic, and technological shifts. Using MT and multilinguality as a litmus test for bias research, I will reflect on the evolution and directions of the field, bringing together work that centers users, pairs inclusive design with sociolinguistic innovations, and extends beyond text to speech technologies.
 
 ---
+
+<img src="/assets/img/vagrant_gautam.jpg" alt="Vagrant Gautam" style="float: right; width: 140px; height: 140px; border-radius: 50%; object-fit: cover; margin: 0 0 15px 20px;" />
 
 ### Vagrant Gautam (they/them)
 *Heidelberg Institute for Theoretical Studies*
