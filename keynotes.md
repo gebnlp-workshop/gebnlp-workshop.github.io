@@ -7,14 +7,20 @@ rank: 3
 
 ## <span style="color:#267CB9"> Keynotes</span>
 
-### Beatrice Savoldi
+### Beatrice Savoldi (she/her)
 *Fondazione Bruno Kessler*
 
-Title and abstract to be announced.
+#### Gender, Users, and Inclusive Multilingual Language Technologies
+
+**Abstract**
+
+As language technologies increasingly permeate society and mediate how people communicate, questions of gender bias reach a broader and more diverse set of users and scenarios. What shapes the usability of these technologies and their potential for harm in real-world settings? How do these issues emerge differently across languages, cultures, and marginalized communities? And how are they reconfigured in frontier, natively multimodal models?
+
+Machine translation (MT), among the most extensively studied and user-facing tasks in NLP, has long been at the forefront of gender bias research, during a period marked by societal, linguistic, and technological shifts. Using MT and multilinguality as a litmus test for bias research, I will reflect on the evolution and directions of the field, bringing together work that centers users, pairs inclusive design with sociolinguistic innovations, and extends beyond text to speech technologies.
 
 ---
 
-### Vagrant Gautam
+### Vagrant Gautam (they/them)
 *Heidelberg Institute for Theoretical Studies*
 
 #### Measurement and impact in bias research
