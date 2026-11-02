@@ -29,5 +29,11 @@ The 7th Workshop on Gender Bias in Natural Language Processing will take place o
 
 <br/><br/>
 
+## Code of Conduct
+
+All participants, speakers, organizers, and reviewers are expected to follow the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy) and the [AACL-IJCNLP 2026 anti-harassment guidelines](https://2026.aaclnet.org/participants/anti_harassment/).
+
+<br/><br/>
+
 ## Contact
 If you have any questions, please get in touch at <a href="mailto:gebnlpworkshop@gmail.com">gebnlpworkshop@gmail.com</a>
