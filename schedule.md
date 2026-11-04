@@ -9,7 +9,7 @@ rank: 4
 
 ### Monday, November 9, 2026
 
-All times are in the **AACL time zone**. Each paper presentation is 8 minutes (5 min talk + 3 min Q&A).
+All times are in the **AACL time zone** (UCT+8).
 
 | Start | End   | Session                                                                                             |
 | :---- | :---- | :-------------------------------------------------------------------------------------------------- |
